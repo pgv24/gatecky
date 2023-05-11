@@ -1,2 +1,0 @@
-# gatecky
-code from website
