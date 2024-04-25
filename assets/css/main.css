@@ -336,7 +336,7 @@ section {
     padding: 10px 20px;
     font-size: 15px;
     text-transform: none;
-    color: var(--color-secondary);
+    color: var(--color-tertiary);
   }
 
   .navbar .dropdown ul a i {
@@ -498,7 +498,7 @@ section {
 .hero {
   width: 100%;
   min-height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/index/young-woman-wearing-embroidered-shirt.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 120px 0;
@@ -510,7 +510,7 @@ section {
     position: absolute;
     content: "";
     width: 40%;
-    background: var(--color-secondary);
+    background: var(--color-tertiary);
     top: 0;
     bottom: 0;
   }
@@ -629,7 +629,7 @@ section {
 .why-us h3 {
   font-size: 24px;
   font-weight: 700;
-  color: var(--color-secondary);
+  color: var(--color-tertiary);
 }
 
 .why-us h4 {
@@ -647,7 +647,7 @@ section {
 .why-us .swiper-button-prev:after,
 .why-us .swiper-button-next:after {
   font-size: 24px;
-  color: var(--color-secondary);
+  color: var(--color-tertiary);
 }
 
 .why-us .swiper-button-prev {
