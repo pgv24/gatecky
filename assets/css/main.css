@@ -506,12 +506,21 @@ section {
   padding: 120px 0;
   z-index: 3;
 }*/
+
+.bg-img-1{
+  background: url("../img/index/young-woman-wearing-embroidered-shirt.jpg") top center;
+}
+.bg-img-2{
+  background: url("../img/index/senior-man-is-using-laptop-sitting-desk-living-room.jpg") top center;
+}
+.bg-img-3{
+  background: url("../img/index/smiley-man-working-laptop-from-home.jpg") top center;
+}
+
 .corousel-image {
   width: 100%;
   min-height: 100vh;
   background-size: cover;
-  /*test para ver si se posiciona mejor*/
-  background: top center;
   position: relative;
   padding: 120px 0;
   z-index: 3;
