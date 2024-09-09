@@ -518,8 +518,8 @@ section {
 }
 
 .carousel-image {
-  width: 50%;
-  min-height: 100vh;
+  width: 100%;
+  min-height: 50vh;
   background-size: cover;
   position: relative;
   padding: 120px 0;
